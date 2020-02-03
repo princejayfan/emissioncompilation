@@ -1,12 +1,12 @@
-package com.jay.photostudio;
+package com.jay.emissioncompilation;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PhotoStudioApplication {
+public class EmissionCompilationApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PhotoStudioApplication.class, args);
+        SpringApplication.run(EmissionCompilationApplication.class, args);
     }
 }

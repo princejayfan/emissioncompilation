@@ -1,4 +1,4 @@
-package com.jay.photostudio.entity;
+package com.jay.emissioncompilation.entity;
 
 import org.hibernate.annotations.GenericGenerator;
 
